@@ -2,4 +2,5 @@
 
 ## Ejercicios de Colas
 
-Guía de la práctica: [Ver PDF](Guia_Laboratorio_Colas.pdf)
+Guía de la práctica: [Ver PDF](Guía de Laboratorio Colas en Java.pdf
+)
